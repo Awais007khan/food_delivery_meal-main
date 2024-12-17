@@ -23,7 +23,7 @@ class _MenuItemsViewState extends State<MenuItemsView> {
       "name": "French Apple Pie",
       "rate": "4.9",
       "rating": "124",
-      "type": "Minute by tuk tuk",
+      "type": "Uni Cafee by tuk tuk",
       "food_type": "Desserts"
     },
     {
@@ -47,7 +47,7 @@ class _MenuItemsViewState extends State<MenuItemsView> {
       "name": "Fudgy Chewy Brownies",
       "rate": "4.9",
       "rating": "124",
-      "type": "Minute by tuk tuk",
+      "type": "Uni Cafee by tuk tuk",
       "food_type": "Desserts"
     },
     {
@@ -55,7 +55,7 @@ class _MenuItemsViewState extends State<MenuItemsView> {
       "name": "French Apple Pie",
       "rate": "4.9",
       "rating": "124",
-      "type": "Minute by tuk tuk",
+      "type": "Uni Cafee by tuk tuk",
       "food_type": "Desserts"
     },
     {
@@ -79,7 +79,7 @@ class _MenuItemsViewState extends State<MenuItemsView> {
       "name": "Fudgy Chewy Brownies",
       "rate": "4.9",
       "rating": "124",
-      "type": "Minute by tuk tuk",
+      "type": "Uni Cafee by tuk tuk",
       "food_type": "Desserts"
     },
   ];

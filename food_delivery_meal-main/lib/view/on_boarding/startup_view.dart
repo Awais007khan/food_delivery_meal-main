@@ -250,7 +250,7 @@ class _StartupViewState extends State<StartupView>
                 ],
               ),
               child: Image.asset(
-                "assets/img/app_logo.png",
+                "assets/img/app_logo3.png",
                 width: media.width * 0.5,
                 height: media.width * 0.5,
                 fit: BoxFit.contain,

@@ -23,27 +23,27 @@ class _HomeViewState extends State<HomeView> {
 
   List catArr = [
     {"image": "assets/img/cat_offer.png", "name": "Offers"},
-    {"image": "assets/img/cat_sri.png", "name": "Sri Lankan"},
-    {"image": "assets/img/cat_3.png", "name": "Italian"},
-    {"image": "assets/img/cat_4.png", "name": "Indian"},
+    {"image": "assets/img/cat_sri.png", "name": "Desi Food"},
+    {"image": "assets/img/offer_3.png", "name": "Special Chai"},
+    {"image": "assets/img/cat_4.png", "name": "Special Biryani"},
   ];
 
   List popArr = [
     {
       "image": "assets/img/res_1.png",
-      "name": "Minute by tuk tuk",
+      "name": "Tandori Pizza",
       "rate": "4.9",
       "rating": "124",
       "type": "Cafa",
       "food_type": "Western Food"
     },
     {
-      "image": "assets/img/res_2.png",
-      "name": "Café de Noir",
+      "image": "assets/img/shake.jpg",
+      "name": "Banana Shake",
       "rate": "4.9",
       "rating": "124",
       "type": "Cafa",
-      "food_type": "Western Food"
+      "food_type": "Fast Food"
     },
     {
       "image": "assets/img/res_3.png",
@@ -51,14 +51,14 @@ class _HomeViewState extends State<HomeView> {
       "rate": "4.9",
       "rating": "124",
       "type": "Cafa",
-      "food_type": "Western Food"
+      "food_type": "Popular Desserts"
     },
   ];
 
   List mostPopArr = [
     {
       "image": "assets/img/m_res_1.png",
-      "name": "Minute by tuk tuk",
+      "name": "Uni Cafee ",
       "rate": "4.9",
       "rating": "124",
       "type": "Cafa",
@@ -219,7 +219,7 @@ class _HomeViewState extends State<HomeView> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20),
                 child: ViewAllTitleRow(
-                  title: "Popular Restaurants",
+                  title: "Popular Food Items!",
                   onView: () {},
                 ),
               ),
